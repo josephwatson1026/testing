@@ -1,6 +1,6 @@
 const nodemon = require('nodemon');
 const path = require('path');
-
+// this might be good
 nodemon({
   execMap: {
     js: 'node'
